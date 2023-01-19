@@ -1,2 +1,2 @@
 # CrossCuttingFinal
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Neketa13/CrossCuttingFinal/blob/main/GUI.png)
